@@ -1,14 +1,18 @@
-//package com.example.namesorter;
+// No package declaration
 
-import org.junit.jupiter.api.Test;
-import java.util.*;
+import static org.junit.Assert.assertEquals;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
-class NameSorterTest {
+import java.util.Arrays;
+import java.util.List;
+
+public class NameSorterTest {
 
     @Test
-    void testSorting() {
+    public void testSorting() {
         List<String> names = Arrays.asList(
                 "Janet Parsons",
                 "Vaughn Lewis",
