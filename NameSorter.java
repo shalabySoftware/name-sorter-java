@@ -1,4 +1,4 @@
-package com.example.namesorter;
+//package com.example.namesorter;
 
 import java.io.*;
 import java.nio.file.*;

@@ -1,4 +1,4 @@
-package com.example.namesorter;
+//package com.example.namesorter;
 
 import org.junit.jupiter.api.Test;
 import java.util.*;
