@@ -1,4 +1,5 @@
-// No package declaration
+// Removed here for simplicity
+//package com.assessment.namesorter;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;

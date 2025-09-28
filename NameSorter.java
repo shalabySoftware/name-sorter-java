@@ -1,4 +1,5 @@
-//package com.example.namesorter;
+// removed here for simplicity
+//package com.assessment.namesorter;
 
 import java.io.*;
 import java.nio.file.*;
